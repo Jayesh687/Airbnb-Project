@@ -1,0 +1,4 @@
+id,name,host_id,host_name,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews
+1001,Cozy Apartment Downtown,501,Alice,Downtown,40.7128,-74.006,Entire home/apt,120,2,35
+1002,Bright Room near Park,502,Bob,Green Park,40.7138,-74.007,Private room,60,1,12
+1003,Modern Studio,503,Carol,Midtown,40.7148,-74.008,Entire home/apt,150,3,40
